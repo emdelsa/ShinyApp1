@@ -1,4 +1,3 @@
 ## README
-## Course: Developing Data Products
-Course Project 
+## Course Project: Developing Data Products
 This repository contains the code for the shiny app
